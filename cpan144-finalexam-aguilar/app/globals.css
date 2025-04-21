@@ -1,0 +1,14 @@
+/**
+CPAN144 - FINAL EXAM - Daniel Aguilar
+globals.css
+**/
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    line-height: 1.6;
+  }
+  
+  h1, h2, h3 {
+    color: #333;
+  }
